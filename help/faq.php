@@ -175,7 +175,7 @@ $lang = array_merge($lang, array(
 	'HELP_FAQ_USERSETTINGS_EMAIL_LOGIN_QUESTION'	=> '사용자의 이메일 링크를 클릭하면 로그인을 요청하나요?',
 	'HELP_FAQ_USERSETTINGS_HIDE_ONLINE_ANSWER'	=> '사용자 제어판 내에서 “Board preferences”에서 <em>온라인 상태를 숨기는</em> 옵션을 찾을 수 있습니다. 이 옵션을 활성화하면 관리자, 중재자 및 자신에게만 나타납니다. 당신은 숨겨진 사용자로 간주됩니다.',
 	'HELP_FAQ_USERSETTINGS_HIDE_ONLINE_QUESTION'	=> '온라인 사용자 목록에 내 사용자 이름이 나타나는 것을 어떻게 막나요?',
-	'HELP_FAQ_USERSETTINGS_LANGUAGE_ANSWER'	=> '관리자가 당신의 언어를 설치하지 않았거나 아무도이 보드를 당신의 언어로 번역하지 않았습니다. 필요한 언어 팩을 설치할 수 있는지 보드 관리자에게 물어보십시오. 언어 팩이 존재하지 않으면 새로운 번역을 자유롭게 만들 수 있습니다. 자세한 내용은 <a href="https://www.phpbb.com/"> phpbb</a> & reg; 웹 사이트에서 찾으세요',
+	'HELP_FAQ_USERSETTINGS_LANGUAGE_ANSWER'	=> '관리자가 당신의 언어를 설치하지 않았거나 아무도이 보드를 당신의 언어로 번역하지 않았습니다. 필요한 언어 팩을 설치할 수 있는지 보드 관리자에게 물어보십시오. 언어 팩이 존재하지 않으면 새로운 번역을 자유롭게 만들 수 있습니다. 자세한 내용은 <a href="https://www.phpbb.com/"> phpbb</a> &reg; 웹 사이트에서 찾으세요',
 	'HELP_FAQ_USERSETTINGS_LANGUAGE_QUESTION'	=> '내 언어가 목록에 없어요!',
 	'HELP_FAQ_USERSETTINGS_RANK_ANSWER'	=> '사용자 이름 아래에 표시되는 순위는 특정 사용자 (예 : 특정 사용자를 식별하거나 식별 한 게시물 수를 나타냅니다). 중재자 및 관리자. 일반적으로 보드 관리자가 설정 한 보드 순위의 문구를 직접 변경할 수는 없습니다. 당신의 계급을 높이기 위해 불필요하게 게시하여 보드를 남용하지 마십시오. 대부분의 보드는 이를 견딜 수 없으며 중재자 또는 관리자는 게시물 수를 단순히 낮추게됩니다.',
 	'HELP_FAQ_USERSETTINGS_RANK_QUESTION'	=> '내 계급은 무엇이며 어떻게 변경?',
