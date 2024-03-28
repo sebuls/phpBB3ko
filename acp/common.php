@@ -111,7 +111,7 @@ $lang = array_merge($lang, array(
 	'ACP_HELP_PHPBB'      => 'phpBB 지원에 도움',
 
 	'ACP_ICONS'           => '주제 아이콘',
-	'ACP_ICONS_SMILIES'   => '주제 아이콘/웃음',
+	'ACP_ICONS_SMILIES'   => '주제 아이콘/스마일리',
 	'ACP_INACTIVE_USERS'  => '비활성 사용자',
 	'ACP_INDEX'           => 'ACP 색인',
 
@@ -172,7 +172,7 @@ $lang = array_merge($lang, array(
 	'ACP_SERVER_CONFIGURATION'  => '서버 구성',
 	'ACP_SERVER_SETTINGS'       => '서버 설정',
 	'ACP_SIGNATURE_SETTINGS'    => '서명 설정',
-	'ACP_SMILIES'               => '웃음',
+	'ACP_SMILIES'               => '스마일리',
 	'ACP_STYLE_MANAGEMENT'      => '스타일 관리',
 	'ACP_STYLES'                => '스타일',
 	'ACP_STYLES_CACHE'          => '캐시 제거',
@@ -289,7 +289,7 @@ $lang = array_merge($lang, array(
 	'ON'  => '켜짐',
 
 	'PARSE_BBCODE'                    => 'BB코드 구문 분석',
-	'PARSE_SMILIES'                   => '웃음 분석',
+	'PARSE_SMILIES'                   => '스마일리 분석',
 	'PARSE_URLS'                      => '링크 구문 분석',
 	'PERMISSIONS_TRANSFERRED'         => '권한이 이전됨',
 	'PERMISSIONS_TRANSFERRED_EXPLAIN' => '현재 %1$s의 권한을 가지고 있습니다. 이 사용자의 권한으로 게시판을 탐색할 수 있지만 관리자 권한이 전송되지 않았기 때문에 관리 제어판에 액세스할 수 없습니다. 언제든지 <a href="%2$s"><strong>권한 집합으로 되돌릴</strong></a> 수 있습니다.',
