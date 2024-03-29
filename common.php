@@ -1449,18 +1449,19 @@ $lang = array_merge($lang, array(
 	),
 
      // The value is only an example and will get replaced by the current time on view
-	'dateformats'	=> array(
-		'd M Y, H:i'			=> '2007년 1월 1일, 13:37',
-		'd M Y H:i'			=> '2007년 1월 1일 13:37',
-		'M jS, \'y, H:i'		=> '1월 1일, \'07, 13:37',
-		'D M d, Y g:i a'		=> '2007년 1월 1일 월요일 오후 1:37',
-		'F jS, Y, g:i a'		=> '2007년 1월 1일 오후 1시 37분',
-		'|d M Y|, H:i'			=> '오늘, 13:37 / 2007년 1월 1일, 13:37',
-		'|F jS, Y|, g:i a'		=> '오늘 오후 1시 37분 / 2007년 1월 1일 오후 1시 37분',
+     	'dateformats'	=> array(
+		'Y-m-d H:i' 			=> '2024-01-23 12:34',
+		'd M Y, H:i'			=> '01 Jan 2007, 13:37',
+		'd M Y H:i'				=> '01 Jan 2007 13:37',
+		'M jS, \'y, H:i'		=> 'Jan 1st, \'07, 13:37',
+		'D M d, Y g:i a'		=> 'Mon Jan 01, 2007 1:37 pm',
+		'F jS, Y, g:i a'		=> 'January 1st, 2007, 1:37 pm',
+		'|d M Y|, H:i'			=> 'Today, 13:37 / 01 Jan 2007, 13:37',
+		'|F jS, Y|, g:i a'		=> 'Today, 1:37 pm / January 1st, 2007, 1:37 pm',
 	),
 
 	// The default dateformat which will be used on new installs in this language
 	// Translators should change this if a the usual date format is different
-'default_dateformat'	=> '요일 월 일, 년 시:분 오전', // Mon Jan 01, 2007 1:37 pm
+'default_dateformat'	=> 'Y-m-d H:i', // 2024-01-01 18:23
 
 ));
