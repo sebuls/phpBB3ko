@@ -167,8 +167,13 @@ $lang = array_merge($lang, array(
 	'CHANGING_PROFILE'	=> '프로필 설정 변경',
 	'CHARACTERS'		=> array(
 		1	=> '%d 문자',
-		2	=> '%d 문자들',
+		2	=> '%d 문자',
 	),
+	// Special version to be used when describing ranges e.g. "min x characters and max y characters"
+	'CHARACTERS_XY'			=> array(
+		1	=> '%d 문자',
+		2	=> '%d 문자',
+	),	
 	'COLLAPSE_VIEW'			=> '보기 접기',
 	'CLOSE_WINDOW'			=> '창 닫기',
 	'CODE'				=> '코드',
