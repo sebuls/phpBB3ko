@@ -390,6 +390,7 @@ $lang = array_merge($lang, array(
 	'LAST_VISIT'				=> '최근 방문',
 	'LDAP_NO_LDAP_EXTENSION'		=> 'LDAP 확장을 사용할 수 없습니다.',
 	'LDAP_NO_SERVER_CONNECTION'		=> 'LDAP 서버에 연결하는 동안 오류가 발생했습니다.',
+	'LDAP_SEARCH_FAILED'			=> 'LDAP 디렉터리 검색 중 오류 발생.',
 	'LEGEND'				=> '범례',
 	'LIVE_SEARCHES_NOT_ALLOWED'		=> '실시간 검색은 허용되지 않습니다.',
 	'LOADING'				=> '로드 중',
