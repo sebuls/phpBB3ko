@@ -682,7 +682,7 @@ $lang = array_merge($lang, array(
 	'RETURN_PAGE'			=> '%이전 페이지로 돌아가기%s',
 	'RETURN_TOPIC'			=> '%최근 방문한 주제로 돌아가기%s',
 	'RETURN_TO'			=> '"%s"로 돌아가기',
-	'RETURN_TO_INDEX'		=> '게시판 색인으로 돌아가기',
+	'RETURN_TO_INDEX'		=> '게시판 인덱스로 돌아가기',
 
 	'ROUTE_NOT_FOUND'		=> '요청한 경로 "%s"을(를) 찾을 수 없습니다.',
 	'ROUTE_INVALID_MISSING_PARAMS'	=> '경로 "%s"에 대해 전달된 매개 변수가 잘못되었거나 누락되었습니다.',
