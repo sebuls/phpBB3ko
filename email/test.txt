@@ -1,0 +1,13 @@
+Subject: phpBB 가 올바로 설정되어 메일 보낼 수 있음
+
+{USERNAME} 님,
+
+축하합니다.만약 이 메일을 받았다면, phpBB의 메일 송신 설정이 올바르게 된 것입니다.
+
+<!-- IF MESSAGE -->
+{MESSAGE}
+
+<!-- ENDIF -->
+지원이 필요하면, https://www.phpbb.com/community 방문하세요.
+
+{EMAIL_SIG}
