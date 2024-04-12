@@ -1,0 +1,7 @@
+Subject: 보고 지워짐 - "{PM_SUBJECT}"
+
+안녕하세요 {USERNAME} 님,
+
+"{SITENAME}"에서 개인 메시지 "{PM_SUBJECT}"과 관련하여 제출한 보고서를 중재자 또는 관리자가 삭제했습니다.
+
+{EMAIL_SIG}

@@ -1,0 +1,13 @@
+Subject: 글 보고 - "{TOPIC_TITLE}"
+
+안녕하세요 {USERNAME} 님,
+
+글 "{POST_SUBJECT}"이 "{SITENAME}"에서 보고되었습니다.
+
+보고를 보려면, 다음 링크 클릭:
+{U_VIEW_REPORT}
+
+글을 보려면, 다음 링크 클릭:
+{U_VIEW_POST}
+
+{EMAIL_SIG}

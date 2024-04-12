@@ -1,0 +1,10 @@
+Subject: 글 승인 - "{POST_SUBJECT}"
+
+안녕하세요 {USERNAME} 님,
+
+"{SITENAME}"에 있는 당신의 글 "{POST_SUBJECT}" 는 중재자 또는 관리자가 비승인 했습니다.
+
+비승인 까닭:
+{REASON}
+
+{EMAIL_SIG}

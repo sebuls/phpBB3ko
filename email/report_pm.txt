@@ -1,0 +1,10 @@
+Subject: 개인 메시지 보고 - "{SUBJECT}"
+
+안녕하세요 {USERNAME} 님,
+
+개인 메시지 제목 "{SUBJECT}" 글쓴이 "{AUTHOR_NAME}"  "{SITENAME}"에서 보고됨.
+
+보고를 보려면, 아래 링크 클릭:
+{U_VIEW_REPORT}
+
+{EMAIL_SIG}

@@ -1,0 +1,9 @@
+Subject: 보고 닫힘 - "{PM_SUBJECT}"
+
+안녕하세요 {USERNAME} 님,
+
+"{SITENAME}"의 개인 메시지 "{PM_SUBJECT}"와 관련하여 제출한 보고서를 중재자 또는 관리자가 관리했습니다. 이제 보고서가 닫혔습니다.
+
+더 많은 질문은 개인 메시지로 {CLOSER_NAME}에게 연락하세요.
+
+{EMAIL_SIG}

@@ -1,0 +1,11 @@
+Subject: 비활성 계정 알림
+
+안녕하세요 {USERNAME} 님,
+
+이 알림은 {REGISTER_DATE}에 생성된 "{SITENAME}" 계정이 비활성 상태로 유지됨을 알려줍니다. 이 계정을 활성화하려면 다음 링크를 방문하십시오:s inactive. If you would like to activate this account, please visit the following link:
+
+{U_ACTIVATE}
+
+"{SITENAME}"에 등록해 주셔서 감사드리며, 많은 참여 바랍니다.
+
+{EMAIL_SIG}

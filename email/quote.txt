@@ -1,0 +1,20 @@
+Subject: Quoted in "{TOPIC_TITLE}"
+
+{USERNAME} 님에게,
+
+"{AUTHOR_NAME}" quoted you in the topic "{TOPIC_TITLE}" at "{SITENAME}".
+"{SITENAME}"에서 "{TOPIC_TITLE}" 항목에서 "{AURTHER_NAME}"을 인용했습니다.
+
+인용된 게시물을 보려면 다음 링크를 클릭:
+{U_VIEW_POST}
+
+주제를 보려면 다음 링크를 클릭:
+{U_TOPIC}
+
+포럼을 보려면 다음 링크를 클릭:
+{U_FORUM}
+
+당신의 의견을 인용하는 답변에 대한 업데이트를 받지 않으려면 여기에서 알림 설정을 업데이트하십시오:
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}

@@ -1,0 +1,14 @@
+Subject: 개인 메시지 보고 닫힘 - "{SUBJECT}"
+
+안녕하세요 {USERNAME} 님,
+
+The report you filed on the private message "{SUBJECT}" by "{AUTHOR_NAME}" at "{SITENAME}" was handled by a moderator or by an administrator. The report was afterwards closed. If you have further questions contact {CLOSER_NAME} with a private message.
+"{SITENAME}"에서 "{AURTHOR_NAME}"이 개인 메시지 "{SUBJECT}"에 제출한 보고서를 진행자 또는 관리자가 처리했습니다. 보고서는 이후에 닫혔습니다. 더 궁금한 사항이 있으면 개인 메시지로 {CLOSER_NAME}에 문의하십시오.
+
+다음 링크를 클릭하면 보고된 개인 메시지를 볼 수 있습니다:
+
+{U_VIEW_MESSAGE}
+
+이 이벤트에 대해 알림을 받을 것을 요청했습니다. 프로필의 적절한 설정을 변경하여 개인 메시지 보고서에 대한 알림을 받지 않도록 항상 선택할 수 있습니다.
+
+{EMAIL_SIG}
