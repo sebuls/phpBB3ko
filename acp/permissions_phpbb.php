@@ -146,22 +146,22 @@ $lang = array_merge($lang, array(
 
 // Moderator Permissions
 $lang = array_merge($lang, array(
-	'ACL_M_EDIT'		=> 'Can edit posts',
-	'ACL_M_DELETE'		=> 'Can permanently delete posts',
+	'ACL_M_EDIT'		=> '글 편집 가능',
+	'ACL_M_DELETE'		=> '글 영구 삭제 가능',
 	'ACL_M_SOFTDELETE'	=> 'Can soft delete posts<br /><em>Moderators, who have the approve posts permission, can restore soft deleted posts.</em>',
-	'ACL_M_APPROVE'		=> 'Can approve and restore posts',
-	'ACL_M_REPORT'		=> 'Can close and delete reports',
-	'ACL_M_CHGPOSTER'	=> 'Can change post author',
+	'ACL_M_APPROVE'		=> '글 승인 및 복구 가능',
+	'ACL_M_REPORT'		=> '보고 닫기 및 지우기 가능',
+	'ACL_M_CHGPOSTER'	=> '글 저자 변경 가능',
 
-	'ACL_M_MOVE'	=> 'Can move topics',
-	'ACL_M_LOCK'	=> 'Can lock topics',
-	'ACL_M_SPLIT'	=> 'Can split topics',
-	'ACL_M_MERGE'	=> 'Can merge topics',
+	'ACL_M_MOVE'	=> '토픽 이동 가능',
+	'ACL_M_LOCK'	=> '토픽 잠금 가능',
+	'ACL_M_SPLIT'	=> '토픽 분리 가능',
+	'ACL_M_MERGE'	=> '토픽 병합 가능',
 
-	'ACL_M_INFO'		=> 'Can view post details',
-	'ACL_M_WARN'		=> 'Can issue warnings<br /><em>This setting is only assigned globally. It is not forum based.</em>', // This moderator setting is only global (and not local)
+	'ACL_M_INFO'	=> '글 상세 보기 가능',
+	'ACL_M_WARN'	=> '경고 이슈 가능<br /><em>이 설정은 전역으로만 할당. 포럼 기반 아님.</em>', // This moderator setting is only global (and not local)
 	'ACL_M_PM_REPORT'	=> 'Can close and delete reports of private messages<br /><em>This setting is only assigned globally. It is not forum based.</em>', // This moderator setting is only global (and not local)
-	'ACL_M_BAN'			=> 'Can manage bans<br /><em>This setting is only assigned globally. It is not forum based.</em>', // This moderator setting is only global (and not local)
+	'ACL_M_BAN'		=> 'Can manage bans<br /><em>This setting is only assigned globally. It is not forum based.</em>', // This moderator setting is only global (and not local)
 ));
 
 // Admin Permissions
@@ -169,12 +169,12 @@ $lang = array_merge($lang, array(
 	'ACL_A_BOARD'		=> 'Can alter board settings/check for updates',
 	'ACL_A_SERVER'		=> 'Can alter server/communication settings',
 	'ACL_A_JABBER'		=> 'Can alter Jabber settings',
-	'ACL_A_PHPINFO'		=> 'Can view php settings',
+	'ACL_A_PHPINFO'		=> 'php 설정 보기',
 
-	'ACL_A_FORUM'		=> 'Can manage forums',
-	'ACL_A_FORUMADD'	=> 'Can add new forums',
-	'ACL_A_FORUMDEL'	=> 'Can delete forums',
-	'ACL_A_PRUNE'		=> 'Can prune forums',
+	'ACL_A_FORUM'		=> '포럼 관리 가능',
+	'ACL_A_FORUMADD'	=> '새 포럼 추가 가능',
+	'ACL_A_FORUMDEL'	=> '포럼 삭제 가능',
+	'ACL_A_PRUNE'		=> '포럼 가지치기 가능',
 
 	'ACL_A_ICONS'		=> 'Can alter topic/post icons and smilies',
 	'ACL_A_WORDS'		=> 'Can alter word censors',
@@ -189,7 +189,7 @@ $lang = array_merge($lang, array(
 	'ACL_A_RANKS'		=> 'Can manage ranks',
 	'ACL_A_PROFILE'		=> 'Can manage custom profile fields',
 	'ACL_A_NAMES'		=> 'Can manage disallowed names',
-	'ACL_A_BAN'			=> 'Can manage bans',
+	'ACL_A_BAN'		=> 'Can manage bans',
 
 	'ACL_A_VIEWAUTH'	=> 'Can view permission masks',
 	'ACL_A_AUTHGROUPS'	=> 'Can alter permissions for individual groups',
