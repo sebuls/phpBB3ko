@@ -399,7 +399,7 @@ $lang = array_merge($lang, array(
 	'LOCK_POST_EXPLAIN'			=> '편집 방지',
 	'LOCK_TOPIC'				=> '주제 잠금',
 	'LOGIN'					=> '로그인',
-	'LOGIN_CHECK_PM'			=> '비공개 메시지를 확인하려면 로그인하세요.',
+	'LOGIN_CHECK_PM'			=> '개인 메시지를 확인하려면 로그인하세요.',
 	'LOGIN_CONFIRMATION'			=> '로그인 확인',
 	'LOGIN_CONFIRM_EXPLAIN'			=> '무차별 대입 계정을 방지하기 위해 보드는 최대 로그인 실패 후 확인 코드를 입력하도록 요구합니다. 코드는 아래에 표시되어야 하는 이미지에 표시됩니다. 시각 장애가 있거나 이 코드를 읽을 수 없는 경우 %s보드 관리자%s에게 문의하십시오.', // unused
 	'LOGIN_ERROR_ATTEMPTS'			=> '허용된 최대 로그인 시도 횟수를 초과했습니다. 사용자 이름과 암호 외에도 CAPTCHA 테스트를 통과해야 합니다.',
@@ -414,7 +414,7 @@ $lang = array_merge($lang, array(
 	'LOGIN_EXPLAIN_EDIT'		=> '이 포럼에서 게시물을 편집하려면 등록 및 로그인해야 합니다.',
 	'LOGIN_EXPLAIN_VIEWONLINE'	=> '온라인 목록을 보려면 등록 및 로그인해야 합니다.',
 	'LOGIN_REQUIRED'		=> '이 작업을 수행하려면 로그인해야 합니다.',
-	'LOGOUT'			=> '로그 아웃',
+	'LOGOUT'			=> '로그아웃',
 	'LOGOUT_USER'			=> '로그아웃 [ %s ]',
 	'LOG_ME_IN'			=> '저장하기',
 
@@ -485,7 +485,7 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_GROUP_REQUEST'		=> '%1$s의 <strong>그룹 요청</strong>은 %2$s 그룹에 가입하도록 합니다.',
 	'NOTIFICATION_GROUP_REQUEST_APPROVED'	=> '%1$s 그룹에 대한 <strong>그룹 요청이 승인되었습니다</strong>.',
 	'NOTIFICATION_METHOD_INVALID'		=> '"%s" 방법은 유효한 알림 방법을 참조하지 않습니다.',
-	'NOTIFICATION_PM'			=> '%1$s의 <strong>비공개 메시지</strong>:',
+	'NOTIFICATION_PM'			=> '%1$s의 <strong>개인 메시지</strong>:',
 	'NOTIFICATION_POST'			=> array(
 		1	=> '주제에 대한 %1$s의 <strong>답글</strong>:',
 	),
@@ -497,8 +497,8 @@ $lang = array_merge($lang, array(
 	),
 	'NOTIFICATION_REFERENCE'		=> '"%1$s"',
 	'NOTIFICATION_REASON'			=> '<em>이유:</em> %1$s.',
-	'NOTIFICATION_REPORT_PM'		=> '%1$s에 의해 보고된 <strong>비공개 메시지</strong>:',
-	'NOTIFICATION_REPORT_PM_CLOSED'		=> '<strong>비공개 메시지 보고서 마감</strong>: %1$s:',
+	'NOTIFICATION_REPORT_PM'		=> '%1$s에 의해 보고된 <strong>개인 메시지</strong>:',
+	'NOTIFICATION_REPORT_PM_CLOSED'		=> '<strong>개인 메시지 보고서 마감</strong>: %1$s:',
 	'NOTIFICATION_REPORT_POST'		=> '%1$s님이 <strong>신고한 소식</strong>:',
 	'NOTIFICATION_REPORT_CLOSED'		=> '다음 항목에 대해 %1$s가 <strong>보고서를 닫았습니다</strong>.',
 	'NOTIFICATION_TOPIC'			=> '%1$s의 <strong>새 주제</strong>:',
@@ -558,14 +558,14 @@ $lang = array_merge($lang, array(
 	'NO_USER_SPECIFIED'		=> '사용자 이름이 지정되지 않았습니다.',
 
 	// Nullar/Singular/Plural language entry. The key numbers define the number range in which a certain grammatical expression is valid.
-	'NUM_ATTACHMENTS'		=> array(
+	'NUM_ATTACHMENTS'	=> array(
 		1	=> '첨부 파일 %d개',
 		2	=> '첨부 파일 %d개',
 	),
-	'NUM_POSTS_IN_QUEUE'		=> array(
-		0			=> '대기열에 게시물 없음',		// 0
-		1			=> '대기열에 있는 게시물 1개',	// 1
-		2			=> '대기열에 있는 게시물 %d개',	// 2+
+	'NUM_POSTS_IN_QUEUE'	=> array(
+		0	=> '대기열에 게시물 없음',		// 0
+		1	=> '대기열에 있는 게시물 1개',	// 1
+		2	=> '대기열에 있는 게시물 %d개',	// 2+
 	),
 
 	'OCCUPATION'		=> '직업',
@@ -637,9 +637,9 @@ $lang = array_merge($lang, array(
 	'PREVIOUS_STEP'			=> '이전의',
 	'PRIVACY'			=> '개인정보 정책',
 	'PRIVACY_LINK'			=> '개인정보 보호',
-	'PRIVATE_MESSAGE'		=> '비공개 메시지',
-	'PRIVATE_MESSAGES'		=> '비공개 메시지',
-	'PRIVATE_MESSAGING'		=> '비공개 메시지',
+	'PRIVATE_MESSAGE'		=> '개인 메시지',
+	'PRIVATE_MESSAGES'		=> '개인 메시지',
+	'PRIVATE_MESSAGING'		=> '개인 메시지',
 	'PROFILE'			=> '사용자 제어판',
 
 	'QUICK_LINKS'			=> '빠른 링크',
@@ -774,7 +774,7 @@ $lang = array_merge($lang, array(
 	'TIMEOUT_PROCESSING_REQ'	=> '요청 시간이 초과되었습니다.',
 
 	'TOO_LARGE'			=> '입력한 값이 너무 큽니다.',
-	'TOO_LARGE_MAX_RECIPIENTS'	=> '입력한 <strong>비공개 메시지당 허용되는 최대 수신자 수</strong> 설정 값이 너무 큽니다.',
+	'TOO_LARGE_MAX_RECIPIENTS'	=> '입력한 <strong>개인 메시지당 허용되는 최대 수신자 수</strong> 설정 값이 너무 큽니다.',
 
 	'TOO_LONG'			=> '입력한 값이 너무 깁니다.',
 
@@ -801,7 +801,7 @@ $lang = array_merge($lang, array(
 	'TOO_SHORT_EMAIL'		=> '입력한 이메일 주소가 너무 짧습니다.',
 	'TOO_SHORT_EMAIL_CONFIRM'	=> '입력한 이메일 주소 확인이 너무 짧습니다.',
 	'TOO_SMALL'			=> '입력한 값이 너무 작습니다.',
-	'TOO_SMALL_MAX_RECIPIENTS'	=> '입력한 <strong>비공개 메시지당 허용되는 최대 수신자 수</strong> 설정 값이 너무 작습니다.',
+	'TOO_SMALL_MAX_RECIPIENTS'	=> '입력한 <strong>개인 메시지당 허용되는 최대 수신자 수</strong> 설정 값이 너무 작습니다.',
 
 	'TOPIC'			=> '주제',
 	'TOPICS'		=> '주제',
@@ -825,7 +825,7 @@ $lang = array_merge($lang, array(
 	),
 	'TOTAL_PMS'		=> array(
 		1	=> '총 %d 개인 메시지',
-		2	=> '총 %d개의 비공개 메시지',
+		2	=> '총 %d개의 개인 메시지',
 	),
 	'TOPIC_POLL'		=> '이 주제에는 설문조사가 있습니다.',
 	'TOTAL_POSTS'		=> '총 게시물',
@@ -886,7 +886,7 @@ $lang = array_merge($lang, array(
 	'VIEWING_ONLINE'		=> '온라인 상태인 사람 보기',
 	'VIEWING_MCP'			=> '진행자 제어판 보기',
 	'VIEWING_MEMBER_PROFILE'	=> '회원 프로필 보기',
-	'VIEWING_PRIVATE_MESSAGES'	=> '비공개 메시지 보기',
+	'VIEWING_PRIVATE_MESSAGES'	=> '개인 메시지 보기',
 	'VIEWING_REGISTER'		=> '계정 등록',
 	'VIEWING_UCP'			=> '사용자 제어판 보기',
 	'VIEWS'				=> '보기',
@@ -916,23 +916,23 @@ $lang = array_merge($lang, array(
 	'WATCH_TOPIC_CONFIRM'	=> '이 주제를 구독하시겠습니까?',
 	'WATCH_TOPIC_DETAILED'	=> '"%s" 주제를 구독하시겠습니까?',
 	'WELCOME_SUBJECT'	=> '%s 포럼에 오신 것을 환영합니다',
-	'WEBSITE'			=> '웹사이트',
-	'WHOIS'				=> '후이즈',
+	'WEBSITE'		=> '웹사이트',
+	'WHOIS'			=> '후이즈',
 	'WHO_IS_ONLINE'		=> '온라인 상태인 사람',
 	'WRONG_PASSWORD'	=> '잘못된 암호를 입력했습니다.',
 
-	'WRONG_DATA_COLOUR'		=> '입력한 색상 값이 잘못되었습니다.',
-	'WRONG_DATA_JABBER'		=> '입력한 이름은 유효한 Jabber 계정 이름이 아닙니다.',
-	'WRONG_DATA_LANG'		=> '지정한 언어가 유효하지 않습니다.',
-	'WRONG_DATA_POST_SD'		=> '지정한 게시물 정렬 방향이 유효하지 않습니다.',
-	'WRONG_DATA_POST_SK'		=> '지정한 게시물 정렬 옵션이 유효하지 않습니다.',
-	'WRONG_DATA_TOPIC_SD'		=> '지정한 주제 정렬 방향이 유효하지 않습니다.',
-	'WRONG_DATA_TOPIC_SK'		=> '지정한 주제 정렬 옵션이 유효하지 않습니다.',
-	'WROTE'				=> '씀',
+	'WRONG_DATA_COLOUR'	=> '입력한 색상 값이 잘못되었습니다.',
+	'WRONG_DATA_JABBER'	=> '입력한 이름은 유효한 Jabber 계정 이름이 아닙니다.',
+	'WRONG_DATA_LANG'	=> '지정한 언어가 유효하지 않습니다.',
+	'WRONG_DATA_POST_SD'	=> '지정한 게시물 정렬 방향이 유효하지 않습니다.',
+	'WRONG_DATA_POST_SK'	=> '지정한 게시물 정렬 옵션이 유효하지 않습니다.',
+	'WRONG_DATA_TOPIC_SD'	=> '지정한 주제 정렬 방향이 유효하지 않습니다.',
+	'WRONG_DATA_TOPIC_SK'	=> '지정한 주제 정렬 옵션이 유효하지 않습니다.',
+	'WROTE'			=> '씀',
 
-	'YAHOO'				=> '야후 메신저',
-	'YOUTUBE'			=> '유튜브',
-	'YEAR'				=> '년',
+	'YAHOO'			=> '야후 메신저',
+	'YOUTUBE'		=> '유튜브',
+	'YEAR'			=> '년',
 	'YEAR_MONTH_DAY'	=> '(YYYY-MM-DD)',
 	'YES'			=> '예',
 	'YOU_LAST_VISIT'	=> '최근 방문: %s',
@@ -1468,6 +1468,6 @@ $lang = array_merge($lang, array(
 
 	// The default dateformat which will be used on new installs in this language
 	// Translators should change this if a the usual date format is different
-'default_dateformat'	=> 'Y-M-d H:i', // 2024-01-01 18:23
+'default_dateformat'	=> 'Y-m-d H:i', // 2024-01-01 18:23
 
 ));
