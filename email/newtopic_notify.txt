@@ -1,0 +1,15 @@
+Subject: 새 주제가 "{FORUM_NAME}"에 있음
+List-Unsubscribe: <{U_STOP_WATCHING_FORUM}>
+
+Hello {USERNAME},
+
+ "{FORUM_NAME}" 포럼이새 주제 "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME != '' --> 저자 {AUTHOR_NAME}<!-- ENDIF -->  "{SITENAME}"에 최근 방문 이후. 포럼에 방문하지 않으면 알림 받지 않음.
+{U_FORUM}
+
+새 주제를 보려면, 아래 링크 클릭:
+{U_TOPIC}
+
+이 포럼을 보기 원치 않으면 아래 링크 클릭:
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}
