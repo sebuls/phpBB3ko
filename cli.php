@@ -70,9 +70,9 @@ $lang = array_merge($lang, array(
 
 	'CLI_DESCRIPTION_PURGE_EXTENSION'	=> '명시된 확장 제거.',
 
-	'CLI_DESCRIPTION_REPARSER_LIST'			=> '재분석 가능한 텍스트 유형 목록.',
-	'CLI_DESCRIPTION_REPARSER_AVAILABLE'			=> '가능한 재분석기:',
-	'CLI_DESCRIPTION_REPARSER_REPARSE'			=> '현재 text_formatter 서비스로 저장된 텍스트 재분석.',
+	'CLI_DESCRIPTION_REPARSER_LIST'		=> '재분석 가능한 텍스트 유형 목록.',
+	'CLI_DESCRIPTION_REPARSER_AVAILABLE'	=> '가능한 재분석기:',
+	'CLI_DESCRIPTION_REPARSER_REPARSE'	=> '현재 text_formatter 서비스로 저장된 텍스트 재분석.',
 	'CLI_DESCRIPTION_REPARSER_REPARSE_ARG_1'		=> '재분석할 텍스트 유형. 비워두변 모든 것을 재분석.',
 	'CLI_DESCRIPTION_REPARSER_REPARSE_OPT_DRY_RUN'		=> '변경을 저장하지 마세요. 무슨 일이 생길 지 출력만',
 	'CLI_DESCRIPTION_REPARSER_REPARSE_OPT_RANGE_MIN'	=> '처리할 가장 낮은 레코드 ID',
@@ -80,16 +80,16 @@ $lang = array_merge($lang, array(
 	'CLI_DESCRIPTION_REPARSER_REPARSE_OPT_RANGE_SIZE'	=> '한번에 처리할 대략적 레코드 수',
 	'CLI_DESCRIPTION_REPARSER_REPARSE_OPT_RESUME'		=> '마지막 실행이 멈춘 곳에서 재분석 시작',
 
-	'CLI_DESCRIPTION_SET_ATOMIC_CONFIG'			=> '이전과 현재가 매치 할 때만 옵션 값 설정',
-	'CLI_DESCRIPTION_SET_CONFIG'				=> '설정 옵션 값 설정',
+	'CLI_DESCRIPTION_SET_ATOMIC_CONFIG'	=> '이전과 현재가 매치 할 때만 옵션 값 설정',
+	'CLI_DESCRIPTION_SET_CONFIG'		=> '설정 옵션 값 설정',
 
-	'CLI_DESCRIPTION_THUMBNAIL_DELETE'			=> '모든 썸네일 지움.',
-	'CLI_DESCRIPTION_THUMBNAIL_GENERATE'			=> '없는 썸네일 모두 생성.',
-	'CLI_DESCRIPTION_THUMBNAIL_RECREATE'			=> '모든 썸네일 재생성.',
+	'CLI_DESCRIPTION_THUMBNAIL_DELETE'	=> '모든 썸네일 지움.',
+	'CLI_DESCRIPTION_THUMBNAIL_GENERATE'	=> '없는 썸네일 모두 생성.',
+	'CLI_DESCRIPTION_THUMBNAIL_RECREATE'	=> '모든 썸네일 재생성.',
 
-	'CLI_DESCRIPTION_UPDATE_CHECK'				=> '보드가 최근인지 점검.',
-	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'		=> '점검할 확장명 (all이면, 모든 확장)',
-	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_CACHE'		=> '캐시 갖고 check 명령 실행.',
+	'CLI_DESCRIPTION_UPDATE_CHECK'			=> '보드가 최근인지 점검.',
+	'CLI_DESCRIPTION_UPDATE_CHECK_ARGUMENT_1'	=> '점검할 확장명 (all이면, 모든 확장)',
+	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_CACHE'	=> '캐시 갖고 check 명령 실행.',
 	'CLI_DESCRIPTION_UPDATE_CHECK_OPTION_STABILITY'	=> '안정 또는 불안정 버전만 확인하도록 선택하여 명령 실행.',
 
 	'CLI_DESCRIPTION_UPDATE_HASH_BCRYPT'		=> '오래된 암호를 업데이트 해서 bcrypt로 해시되게 합니다.',
