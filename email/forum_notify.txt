@@ -1,0 +1,18 @@
+Subject: "{FORUM_NAME}" 안에 답장
+List-Unsubscribe: <{U_STOP_WATCHING_FORUM}>
+
+{USERNAME} 님,
+
+"{FORUM_NAME}" received a new reply to the topic "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME != '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit to "{SITENAME}". 이 주제를 방문하기 전까지는 더 이상의 알림이 전송되지 않습니다.
+{U_NEWEST_POST}
+
+주제를 보려면 다음 링크를 클릭하세요:
+{U_TOPIC}
+
+포럼을 보려면 다음 링크를 클릭하세요:
+{U_FORUM}
+
+이 포럼을 안 보려면 다음 링크 클릭:
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}
