@@ -1,0 +1,9 @@
+Subject: 계정 재활성
+
+{USERNAME} 님,
+
+"{SITENAME}"의 계정이 비활성화 되었습니다. 프로필을 바꾸었기 때문일 수 있습니다. 재활성하려면 아래 링크 클릭:
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}
