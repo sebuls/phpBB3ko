@@ -1,0 +1,20 @@
+Subject: "{TOPIC_TITLE}" 답장
+List-Unsubscribe: <{U_STOP_WATCHING_TOPIC}>
+
+{USERNAME} 님,
+
+주제 "{TOPIC_TITLE}" 새 답장 받음 <!-- IF AUTHOR_NAME != '' --> 글쓴이 {AUTHOR_NAME}<!-- ENDIF --> "{SITENAME}" 최근 방문 후. 주제를 방문하지 않으면 메일을 보내지 않을 겁니다.
+
+최근 글을 보려면 아래 링크 클릭:
+{U_NEWEST_POST}
+
+주제를 보려면, 아래 링크 클릭:
+{U_TOPIC}
+
+포럼을 보려면, 아래 링크 클릭:
+{U_FORUM}
+
+이 주제를 더 이상 안 보고 싶으면 아래 링크 클릭:
+{U_STOP_WATCHING_TOPIC}
+
+{EMAIL_SIG}
