@@ -1,0 +1,11 @@
+Subject: 승인 안 된 주제 - "{TOPIC_TITLE}"
+
+{USERNAME} 님,
+
+"{SITENAME}"에 있는 "{TOPIC_TITLE}" 주제를 중재자 또는 관리자가 승인하지 않았습니다.
+
+승인 안 된 까닭:
+
+{REASON}
+
+{EMAIL_SIG}
