@@ -1,0 +1,10 @@
+Subject: 주제 승인됨 - "{TOPIC_TITLE}"
+
+{USERNAME} 님,
+
+"{SITENAME}"에 있는 주제 "{TOPIC_TITLE}"를 중재자 또는 관리자가 승인 했습니다.
+
+주제를 보려면 아래 링크 클릭:
+{U_VIEW_TOPIC}
+
+{EMAIL_SIG}
