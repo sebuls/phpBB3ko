@@ -1,0 +1,13 @@
+Subject: 그룹 가입 요청이 들어왔습니다
+
+{USERNAME} 님,
+
+"{REQUEST_USERNAME}"이(가) "{SITENAME}"에서 사용자가 관리하는 그룹 "{GROUP_NAME""에 가입하도록 요청했습니다.
+이 그룹 가입 요청을 승인 또는 거부하려면 다음 링크를 방문하십시오
+
+"{REQUEST_USERNAME}" 사용자가 "{SITENAME}"에서 사용자가 관리하는 그룹 "{GROUP_NAME}"에 가입하도록 요청했습니다.
+이 그룹 가입 요청을 승인 또는 거부하려면 다음 링크를 방문하십시오:
+
+{U_PENDING}
+
+{EMAIL_SIG}
