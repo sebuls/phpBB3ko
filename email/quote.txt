@@ -2,8 +2,7 @@ Subject: Quoted in "{TOPIC_TITLE}"
 
 {USERNAME} 님에게,
 
-"{AUTHOR_NAME}" quoted you in the topic "{TOPIC_TITLE}" at "{SITENAME}".
-"{SITENAME}"에서 "{TOPIC_TITLE}" 항목에서 "{AURTHER_NAME}"을 인용했습니다.
+"{SITENAME}"에서 "{TOPIC_TITLE}" 주제에서 "{AURTHER_NAME}" 님이 당신을 인용했습니다.
 
 인용된 게시물을 보려면 다음 링크를 클릭:
 {U_VIEW_POST}
