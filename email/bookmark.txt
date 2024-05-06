@@ -1,0 +1,19 @@
+Subject: "{TOPIC_TITLE}"에 답장
+
+{USERNAME} 님,
+
+"{SITENAME}" 최근 방문 이후 즐겨찾기 주제 "{TOPIC_TITLE}" 가 새 답장을 받았습니다. 주제를 방문할 때까지 더 이상 알림이 전송되지 않습니다.
+
+최근 글 보려면 아래 링크 클릭:
+{U_NEWEST_POST}
+
+주제 보려면 아래 링크 클릭:
+{U_TOPIC}
+
+포럼 보려면 아래 링크 클릭:
+{U_FORUM}
+
+즐겨찾기에 대한 회신을 더 이상 받지 않으려면 여기서 알림 설정을 업데이트:
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}
