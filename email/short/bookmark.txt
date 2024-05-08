@@ -1,0 +1,14 @@
+Subject: Reply in "{TOPIC_TITLE}"
+
+{USERNAME} 님,
+
+Your bookmarked topic "{TOPIC_TITLE}" received a new reply since your last visit to "{SITENAME}". No more notifications will be sent until you visit the topic.
+북마크된 주제 "{TOPIC_TITLE}" 가 "{SITENME}"을 마지막으로 방문한 이후로 새로운 회신을 받았습니다. 주제를 방문하기 전까지는 더 이상의 알림이 전송되지 않습니다.
+
+마지막 방문 이후 작성된 최신 게시물을 보려면 다음 링크를 클릭하십시오:
+{U_NEWEST_POST}
+
+책갈피에 대한 회신을 더 이상 받지 않으려면 여기서 알림 설정을 업데이트하십시오:
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}
