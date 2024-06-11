@@ -1,0 +1,11 @@
+Subject: "{FORUM_NAME}" 안에 새 주제
+
+안녕하세요 {USERNAME} 님,
+
+The forum "{FORUM_NAME}" 포럼이 새 주제 "{TOPIC_TITLE}" 받음 <!-- IF AUTHOR_NAME != '' --> 글 쓴이 {AUTHOR_NAME}<!-- ENDIF --> "{SITENAME}"에 최근 방문 이후. 포럼 방문 하지 않으면 알림이 가지 않음.
+{U_FORUM}
+
+이 포럼을 보고 싶지 않으면 아래 링크 클릭:
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}
